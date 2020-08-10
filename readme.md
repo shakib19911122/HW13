@@ -1,5 +1,8 @@
 # Eat Da Burger
 
+<img src = "/public/assets/img/burger2.png">
+   https://immense-tundra-64291.herokuapp.com
+
 
 ## Description
 Eat Da Burger its an app that allow user to input the burger they would like to order when then click on the submit button.
