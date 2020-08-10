@@ -7,29 +7,48 @@ body{
 
 }
 
-.jumbotron {
+.topContainer {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
     
-    background-repeat: no-repeat;
-    background-position: right;
-    background-color: #000000;
-    color: #ffffff;
-    margin-top: 3%;
+    
+    
 
   }
   #newburger {
     color: #5c5c5c;
   }
+  .leftContainer{
+  border-style: dotted;
+  background-color:green;
+  }
+
+
   #leftside {
-    background-color: #5c5c5c;
+    background-color:green;
     color: white;
     text-align: center;
     font-size: 1.3em;
   }
+  .rightContainer{
+      border-style: dotted;
+      background-color: #e49322;
+      }
+  
   #rightside {
     background-color: #e49322;
     color: white;
     text-align: center;
     font-size: 1.3em;
   }
+
+  h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+ 
 
   
